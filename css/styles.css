@@ -139,6 +139,13 @@ img {
 .section__subtitle {
   text-align: center;
 }
+.button-row {
+  display: flex;
+}
+
+.button-row a {
+  margin-right: 10px; /* Optional: Add margin between buttons */
+}
 
 .container {
   max-width: 768px;
